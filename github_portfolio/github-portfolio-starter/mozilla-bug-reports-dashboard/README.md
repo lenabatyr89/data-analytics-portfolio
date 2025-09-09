@@ -28,4 +28,7 @@ Public bug report dataset (or simulated). No PII.
 3. Open PBIX and refresh.
 
 ## Preview
-![dashboard preview](reports/figures/preview.png)
+![preview](reports/figures/preview.png)
+
+## Download
+- [Dashboard PDF](reports/mozilla-bugs-dashboard.pdf)
