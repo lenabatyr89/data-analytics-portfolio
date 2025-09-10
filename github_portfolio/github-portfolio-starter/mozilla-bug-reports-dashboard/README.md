@@ -27,5 +27,5 @@ Public bug report dataset (or simulated). No PII.
 2. Run SQL to create cleaned tables.
 3. Open PBIX and refresh.
 
-
-**Mozilla Bug Reports Dashboard** → [PDF](./Mozilla%20bugs%20report%202.pdf)
+## Download
+[Dashboard PDF](reports/mozilla-bugs-dashboard.pdf)
