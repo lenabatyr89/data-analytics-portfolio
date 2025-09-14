@@ -29,4 +29,4 @@ Synthetic HR dataset (no personal data).
 
 
 ## HR Analytics Dashboard
-→ [PDF](./hr-analytics-dashboard/reports/HR_Dashboard.pdf)
+→ [PDF](./github-portfolio-starter/hr-analytics-dashboard/reports/HR_Dashboard.pdf)
