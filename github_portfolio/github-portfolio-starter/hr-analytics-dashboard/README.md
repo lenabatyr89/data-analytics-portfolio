@@ -28,5 +28,5 @@ Synthetic HR dataset (no personal data).
 3. Open PBIX and refresh.
 
 
-## Download
-[Dashboard PDF](github_portfolio/github-portfolio-starter/hr-analytics-dashboard/reports/HR_Dashboard.pdf)
+## HR Analytics Dashboard
+→ [PDF](./hr-analytics-dashboard/reports/HR_Dashboard.pdf)
