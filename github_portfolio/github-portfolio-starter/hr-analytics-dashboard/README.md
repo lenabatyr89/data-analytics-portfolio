@@ -27,6 +27,6 @@ Synthetic HR dataset (no personal data).
 2. Run SQL to compute KPIs.
 3. Open PBIX and refresh.
 
-## Download
-[Dashboard PDF](reports/HR-dashboard.pdf)
+## HR Analytics Dashboard
+→ [PDF](./hr-analytics-dashboard/reports/HR_Dashboard.pdf)
 
