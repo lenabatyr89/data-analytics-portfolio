@@ -27,5 +27,5 @@ Aggregated mobile events (public/anonymized).
 2. Execute SQL transformations.
 3. Refresh PBIX or run notebook.
 
-## Preview
-![cohorts](reports/figures/cohorts.png)
+## Download
+[Dashboard PDF](reports/mobile-user-behavior-dashboard.pdf)
